@@ -2,6 +2,8 @@
 LexWord é uma aplicação analítica desenvolvida em Python + Streamlit para análise léxica, detecção de sentimento e inferência estatística avançada, baseada em bancos léxicos ponderados (positivo, negativo e neutro).
 O sistema foi projetado para uso acadêmico, científico e exploratório, permitindo desde análises rápidas de frases até relatórios estatísticos completos com exportação em PDF.
 
+🔗 Este módulo faz parte do ecossistema LexOS.
+
 🚀 Principais Funcionalidades
 
 ✅ Análise de sentimento em tempo real a partir de frases ou parágrafos
